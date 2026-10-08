@@ -5,7 +5,7 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://efthack.net/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/" />
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://efthack.net/eft-hack</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/eft-hack" />
@@ -84,7 +84,7 @@
   </url>
   <url>
     <loc>https://efthack.net/forums</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/forums" />
@@ -115,7 +115,7 @@
     <image:image>
       <image:loc>https://efthack.net/media/eft-esp-street.png</image:loc>
       <image:title>EFT Aimbot Settings for Silent Aim Artwork</image:title>
-      <image:caption>Tune EFT Aimbot FOV, smoothing, hitbox and silent aim so player tracking stays effective without looking robotic to spectating admins.</image:caption>
+      <image:caption>Tune EFT Aimbot FOV, smoothing, hitbox and silent aim so player tracking stays effective without looking robotic to other players or in kill cam.</image:caption>
     </image:image>
   </url>
   <url>
@@ -146,7 +146,7 @@
     <image:image>
       <image:loc>https://efthack.net/og/forums-complete-setup.jpg</image:loc>
       <image:title>Complete EFT Hack Setup Open Graph</image:title>
-      <image:caption>Complete EFT hack setup on Windows: buy when status is clear, antivirus exclusions, load order, first-run ESP and Aimbot, then re-check anti-cheat after patches.</image:caption>
+      <image:caption>Complete EFT hack setup on Windows: buy when status is clear, AV exclusions, load order, first-run ESP and Aimbot, then re-check anti-cheat after patches.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://efthack.net/media/eft-wallhack-players.png</image:loc>
@@ -236,7 +236,7 @@
     <image:image>
       <image:loc>https://efthack.net/og/forums-loader-errors.jpg</image:loc>
       <image:title>Fix EFT Hack Loader Errors Open Graph</image:title>
-      <image:caption>Fix EFT hack loader errors: antivirus quarantine, overlays, failed inject and menu not opening on Windows. Confirm clear status, then contact support with order ID.</image:caption>
+      <image:caption>Fix EFT hack loader errors: AV quarantine, overlays, failed inject and menu not opening on Windows. Confirm clear status, then contact support with order ID.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://efthack.net/media/eft-radar-esp.png</image:loc>
@@ -290,7 +290,7 @@
     <image:image>
       <image:loc>https://efthack.net/og/forums-stream-proof-setup.jpg</image:loc>
       <image:title>Stream-Proof EFT Hack for OBS Open Graph</image:title>
-      <image:caption>Stream-proof EFT hack for OBS and clips: keep ESP, wallhack and Aimbot overlays off recordings while you still see them locally. Test with a private capture first.</image:caption>
+      <image:caption>Stream-proof EFT hack for OBS: keep ESP, wallhack and Aimbot overlays off recordings while you still see them locally. Test with a private capture first.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://efthack.net/media/eft-wallhack-players.png</image:loc>
@@ -336,7 +336,7 @@
   </url>
   <url>
     <loc>https://efthack.net/reviews</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/reviews" />
@@ -349,7 +349,7 @@
   </url>
   <url>
     <loc>https://efthack.net/faq</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/faq" />
@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>https://efthack.net/support</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/support" />
@@ -375,7 +375,7 @@
   </url>
   <url>
     <loc>https://efthack.net/privacy</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/privacy" />
@@ -388,7 +388,7 @@
   </url>
   <url>
     <loc>https://efthack.net/refunds</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.45</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/refunds" />
@@ -401,7 +401,7 @@
   </url>
   <url>
     <loc>https://efthack.net/terms</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://efthack.net/terms" />

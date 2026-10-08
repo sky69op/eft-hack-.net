@@ -26,6 +26,10 @@ html_handling = "drop-trailing-slash"
 run_worker_first = [
   "/*",
   "!/favicon.svg",
+  "!/robots.txt",
+  "!/sitemap.xml",
+  "!/sitemap-index.xml",
+  "!/sitemap.css",
   "!/_astro/*",
   "!/media/*",
   "!/videos/*",

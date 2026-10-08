@@ -383,6 +383,13 @@ if (!worker.includes('LEGACY_SITEMAP_PATHS') || !worker.includes('isSeoCrawlerFi
   fail('workers/site.js must 301 legacy sitemap paths and serve sitemap on www + apex')
 }
 
+const wrangler = readFileSync(join(root, 'wrangler.toml'), 'utf8')
+for (const path of ['/robots.txt', '/sitemap.xml', '/sitemap-index.xml', '/sitemap.css']) {
+  if (!wrangler.includes(`"!${path}"`)) {
+    fail(`wrangler.toml run_worker_first must exclude ${path} (serve static for GSC)`)
+  }
+}
+
 if (failures.length) {
   throw new Error(`SEO verification failed:\n- ${failures.join('\n- ')}`)
 }
